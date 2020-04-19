@@ -1,4 +1,3 @@
-StackStructure
 ## [Bài tập] Cài đặt cấu trúc Stack
 ####Mục tiêu
 Luyện tập cài đặt cấu trúc Stack.
